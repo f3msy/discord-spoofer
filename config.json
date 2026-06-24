@@ -1,6 +1,6 @@
 {
   "tokens": [
-    ""
+    "" // to add more tokens, add a comma after the first token and add the second token
   ],
   "status": "online", // you can view all status types in types.json
   "devices": {
