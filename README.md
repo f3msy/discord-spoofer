@@ -30,7 +30,7 @@ A simple `config.json` file:
 
 ```json
 {
-  "token": "your-token",
+  "token": "your-token", // to add more tokens, add a comma after the first token and add the second token
   "status": "online", // you can view all status types in types.json
   "devices": {
     "Discord VR": { "name": "Meta Quest 3", "spoof": true },
