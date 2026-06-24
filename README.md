@@ -1,3 +1,5 @@
+### Credits to [@seclus1on](https://github.com/seclus1on/discord-spoofing)
+
 ![Discord Platform Spoofer](image.png)
 # Discord Platform Spoofer
 
