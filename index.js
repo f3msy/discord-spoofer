@@ -17,8 +17,7 @@ for (const token of config.tokens) {
             if (config.status === "online") client.user?.setStatus("online");
             else if (config.status === "idle") client.user?.setStatus("idle");
             else if (config.status === "dnd") client.user?.setStatus("dnd");
-
-            console.clear();    
+            
             console.log(`spoofed as ${browser} on ${device.name} | ${client.user?.username}`);
         });
 
