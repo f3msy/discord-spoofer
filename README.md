@@ -1,4 +1,4 @@
-![Discord Platform Spoofer](./images/image.png)
+![Discord Platform Spoofer](image.png)
 # Discord Platform Spoofer
 
 Spoof multiple Discord platform sessions simultaneously using `discord.js-selfbot-v13`.
