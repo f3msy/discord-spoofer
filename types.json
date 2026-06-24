@@ -1,0 +1,18 @@
+[
+    {
+    "Discord VR": { "name": "Meta Quest 3", "spoof": true }, 
+    "Discord Embedded": { "name": "PS5", "spoof": true },
+    "Discord Android": { "name": "sdk_gphone64_x86_64, sdk_gphone64_x86_64", "spoof": true },
+    "Discord Client": { "name": "Desktop", "spoof": true },
+    "Discord": { "name": "Web", "spoof": true }
+    },
+
+    {
+        "online": { "name": "Online", "spoof": false },
+        "idle": { "name": "Idle", "spoof": false },
+        "dnd": { "name": "Do Not Disturb", "spoof": false }
+    }
+]
+
+
+
